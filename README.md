@@ -23,4 +23,4 @@ Some notes:
 5. Remove any files created in /tmp when done (use unlink).
 6. Do not use global variables.
 7. Write modular code.
-8. Bonus (5): prompt user for password and display '*' for each character entered.
+
